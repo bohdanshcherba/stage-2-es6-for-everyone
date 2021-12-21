@@ -11,3 +11,20 @@
 .fighter-preview___left {
   align-items: flex-start;
 }
+
+.fighter-preview___detail{
+  height: 300px;
+
+
+}
+
+.fighter-preview___info{
+  background-color: #f3c779;
+  border-radius: 5px;
+  color: #8d652d;
+  text-align: center;
+}
+
+.fighter-preview___img{
+  width: 100%;
+}
